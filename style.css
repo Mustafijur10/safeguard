@@ -126,6 +126,30 @@ h2 {
 
 }
 
+.update-part {
+    text-align: center;
+    background-color: rgb(248, 209, 209);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 20%;
+
+    margin-right: 20%;
+}
+
+.update-section {
+    margin-bottom: 150px;
+}
+
+.update-input {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    text-align: left;
+
+}
+
 .footer-part {
     padding-top: 3%;
     padding-bottom: 3%;
