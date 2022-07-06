@@ -106,6 +106,7 @@ h2 {
     padding-right: 1%;
     padding-top: 2%;
     padding-bottom: 2%;
+    width: 40%;
 
 }
 
@@ -115,6 +116,7 @@ h2 {
     padding-right: 1%;
     padding-top: 2%;
     padding-bottom: 2%;
+    width: 40%;
 }
 
 .donate-plan-bg3 {
@@ -123,6 +125,33 @@ h2 {
     padding-right: 1%;
     padding-top: 2%;
     padding-bottom: 2%;
+    width: 40%;
+
+}
+
+.partners {
+    margin-bottom: 220px;
+    text-align: center;
+}
+
+.partner-flex {
+    display: flex;
+    padding-left: 30%;
+    padding-right: 10%;
+    margin-bottom: 50px;
+}
+
+.hr-color {
+    background-color: tomato;
+    padding-top: 1px;
+    border: none;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.width-height {
+    width: 15%;
+
 
 }
 
@@ -132,12 +161,11 @@ h2 {
     padding-top: 5%;
     padding-bottom: 5%;
     margin-left: 20%;
-
     margin-right: 20%;
 }
 
 .update-section {
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 
 .update-input {
