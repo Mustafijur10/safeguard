@@ -1,0 +1,142 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.top-part {
+    text-align: center;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+}
+
+.top-section {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.donate-section {
+    margin-bottom: 10%;
+}
+
+.donate-part {
+    text-align: center;
+}
+
+.donate-paragraph {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.tk-flex {
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.bg-color {
+    background-color: rgb(240, 240, 240);
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+#bg-tomato {
+    background-color: rgb(252, 210, 202);
+    color: tomato;
+    border: 2px solid tomato;
+    border-radius: 5px;
+}
+
+.input-area {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 40px;
+}
+
+.donate-plan-section {
+    margin-bottom: 150px;
+}
+
+.donate-plan {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.donate-plan-bg1 {
+    background-color: rgb(216, 237, 245);
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.donate-plan-bg2 {
+    background-color: rgb(243, 218, 222);
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.donate-plan-bg3 {
+    background-color: rgb(243, 243, 206);
+    padding-left: 2%;
+    padding-right: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.footer-part {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    background-color: rgb(1, 1, 29);
+}
+
+.footer-p-color {
+    color: white;
+}
+
+.footer-h-color {
+    color: tomato;
+}
